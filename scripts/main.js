@@ -24,7 +24,7 @@ document.getElementById("date").innerHTML = c.toUTCString() + "+00 Earth Time";
 
 
 //Declare elements-------------//
-var x = 5, y =50;
+var x = 25, y =50;
 
 //Speed//
 document.getElementById("spd").innerHTML = spd() + " km/h";
