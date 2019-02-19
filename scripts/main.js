@@ -53,7 +53,7 @@ function food(f2) {
 //distance//
 document.getElementById("distance").innerHTML = distance() + " km";
 function distance(d) {
-	var d = x*y*1234;
+	var d = x*y*12345;
 	return d;
 }
 
