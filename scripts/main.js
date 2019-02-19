@@ -23,7 +23,7 @@ var c = new Date();
 document.getElementById("date").innerHTML = c.toUTCString() + "+00 Earth Time";
 
 
-//Declare variables//
+//Declare elements-------------//
 var x = 35, y =50;
 
 //Speed//
