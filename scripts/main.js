@@ -14,7 +14,7 @@ document.getElementById("marsEarth").innerHTML =
 toMiles() + " miles on mars is equal to " + "<br>" + toMiles()*1/3 + " miles on earth";
 
 function toMiles(a) {
-	var a = 68;
+	var a = 86;
 	return a;
 }
 
@@ -24,7 +24,7 @@ document.getElementById("date").innerHTML = c.toUTCString() + "+00 Earth Time";
 
 
 //Declare elements-------------//
-var x = 35, y =50;
+var x = 5, y =50;
 
 //Speed//
 document.getElementById("spd").innerHTML = spd() + " km/h";
